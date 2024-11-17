@@ -40,8 +40,6 @@ me.say_hi()
 </div>
 
 ## 🛠️ Technology Arsenal
-
-## 🛠️ Technology Arsenal
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&lines=Master+of+Multiple+Tech+Domains;Building+the+Future+with+Code" alt="Tech Title" />
 </div>
