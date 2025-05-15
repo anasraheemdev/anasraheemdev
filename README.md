@@ -245,23 +245,6 @@ struct SecurityToolkit {
   🤖 Active member of ML/AI research community
 </div>
 
-## 🏆 Notable Projects
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="https://algrew.com">🌐 Algrew.com</a></td>
-      <td><a href="https://meticulousblinds.com">🎯 Meticulous Blinds</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://learnalgrew.xyz">📚 Learn Algrew</a></td>
-      <td><a href="https://techservent.com">💻 TechServent</a></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center"><a href="https://scitechoffical.com">🔬 SciTech Official</a></td>
-    </tr>
-  </table>
-</div>
-
 ## 🌟 Activity Graph
 <div align="center">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=anasraheemdev&theme=tokyo-night&hide_border=true" />
