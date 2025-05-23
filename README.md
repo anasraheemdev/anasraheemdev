@@ -1,5 +1,10 @@
 <div align="center">
-  <img width="100%" height="auto" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3498DB&center=true&vCenter=true&multiline=true&random=false&width=1000&height=120&lines=Hi+👋+I'm+Muhammad+Anas+Raheem;Full+Stack+Developer;AI+Engineer+%26+Data+Scientist" alt="Typing SVG" />
+  <h1>👋 Muhammad Anas Raheem</h1>
+  <p>
+    <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge" alt="Full Stack"/>
+    <img src="https://img.shields.io/badge/AI-Engineer-green?style=for-the-badge" alt="AI Engineer"/>
+    <img src="https://img.shields.io/badge/Data-Scientist-orange?style=for-the-badge" alt="Data Scientist"/>
+  </p>
 </div>
 
 <div align="center">
