@@ -1,10 +1,9 @@
 <div align="center">
-  <h1>👋 Muhammad Anas Raheem</h1>
-  <p>
-    <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge" alt="Full Stack"/>
-    <img src="https://img.shields.io/badge/AI-Engineer-green?style=for-the-badge" alt="AI Engineer"/>
-    <img src="https://img.shields.io/badge/Data-Scientist-orange?style=for-the-badge" alt="Data Scientist"/>
-  </p>
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hi, I'm Muhammad Anas Raheem
+  </h1>
+  <h3>Full Stack Developer | AI Engineer | Data Scientist</h3>
 </div>
 
 <div align="center">
